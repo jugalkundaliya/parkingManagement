@@ -1,0 +1,9 @@
+Vehicle Type,Charge Name,Charge Value,Charge Duration
+FourWheeler,InitialParkingCharge,30,PerHour
+FourWheeler,RemainingParkingCharge,20,PerHour
+FourWheeler,ExtraParkingCharge,100,PerTenHour
+TwoWheeler,InitialParkingCharge,20,PerHour
+TwoWheeler,RemainingParkingCharge,10,PerHour
+TwoWheeler,ExtraParkingCharge,60,PerTenHour
+FourWheeler,Rent,2000,PerMonth
+TwoWheeler,Rent,1000,PerMonth
